@@ -10,7 +10,7 @@ Technology used: Pandas, Matplotlib, Seaborn and Scikit-Learn
 
 #### Correlation Heatmap
 
-![](/centuries heatmap.png)
+![](/centuries_heatmap.png)
 
 
 #### Observations through correlations
@@ -25,7 +25,7 @@ Technology used: Pandas, Matplotlib, Seaborn and Scikit-Learn
 
 #### Paiplot on filtered dataset
 
-![](/centuries pairplot.png)
+![](/centuries_pairplot.png)
 
 The filtered dataset was trained with Multiple Linear Regression, Support Vector Regression, Decision Tree Regression and Random forest regression.
 
