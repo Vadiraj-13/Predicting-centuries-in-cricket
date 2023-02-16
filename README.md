@@ -14,7 +14,7 @@ NO :- Total Not out \
 Runs :- Total runs \
 HS :- Highest Run in a innings \
 Ave :- Average of batting \
-BF :- Total Ball faced \
+BF :- Total Ball faced 
 
 Technology used: Pandas, Matplotlib, Seaborn and Scikit-Learn
 
