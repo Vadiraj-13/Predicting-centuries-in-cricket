@@ -14,7 +14,10 @@ NO :- Total Not out \
 Runs :- Total runs \
 HS :- Highest Run in a innings \
 Ave :- Average of batting \
-BF :- Total Ball faced 
+BF :- Total Ball faced \
+start year :- Starting Year \ 
+end year :- Ending Year \
+no of years played :- Experience
 
 Technology used: Pandas, Matplotlib, Seaborn and Scikit-Learn
 
